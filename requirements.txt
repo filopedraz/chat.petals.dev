@@ -1,4 +1,4 @@
-git+https://github.com/bigscience-workshop/petals
+petals==2.2.0
 Flask
 flask-sock
 flask-cors
